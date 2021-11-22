@@ -10,3 +10,11 @@
 4. [框架](Framework/readme.md)
 5. [轮子实现](WheelsGo/readme.md)
 6. [算法](Algorithm/readme.md)
+
+## 规划
+* 按照上面罗列的顺序，每个系列花2周时间去完善和更新.
+
+## 每日完成打卡
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
