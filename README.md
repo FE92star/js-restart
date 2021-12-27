@@ -10,6 +10,7 @@
 4. [框架](Framework/readme.md)
 5. [轮子实现](WheelsGo/readme.md)
 6. [算法](Algorithm/readme.md)
+7. [设计模式](DesignMode/readme.md)
 
 ## 规划
 * 按照上面罗列的顺序，每个系列花2周时间去完善和更新.
